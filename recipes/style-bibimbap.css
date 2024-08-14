@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+ul {
+    padding-left: 0;
+}
+
+ul li {
+    list-style-position: inside;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}
