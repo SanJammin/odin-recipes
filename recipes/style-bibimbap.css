@@ -19,3 +19,12 @@ a {
 a:hover {
     color: gray;
 }
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ol li {
+    list-style-position: inside;
+}
