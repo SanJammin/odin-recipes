@@ -2,15 +2,22 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: whitesmoke;
     text-align: center;
+    box-sizing: border-box;
 }
 
-ul {
-    padding-left: 0;
+
+div {
+    margin: 0 auto;
+    border: solid black 1px;
+    width: 300px;
+    padding-left: 85px;
 }
 
-ul li {
-    list-style-position: inside;
+li {
+    text-align: justify;
 }
+
+
 
 a {
     color: black;
